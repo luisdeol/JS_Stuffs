@@ -1,0 +1,14 @@
+﻿* {
+    margin:0;
+    padding:0;
+}
+
+#calculator {
+    width:325px;
+    height:auto;
+
+    margin:100px auto;
+    padding:20px;
+
+    background: linear-gradient(#9dd2ea, #8bceec);
+}
